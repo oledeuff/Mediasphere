@@ -52,7 +52,7 @@ aside.menu header:before {
     height: 70px;
     width: 100px;
     content: "";
-    background-image: url("logo-algoJ.png");
+    background-image: url("");
     background-size: 100px 70px;
     background-repeat: no-repeat;
 }
